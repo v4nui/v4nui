@@ -2,9 +2,9 @@
 _Hello and thanks for stopping by! This repository is where I dive into applied mathematics and statistics, all in pursuit of building a solid data science portfolio - especially for healthcare, pharma, genetics, and genomics._
 
 ## What to Expect 🏗️
-Data Wrangling Projects: Transforming raw datasets into meaningful insights.
-Statistical Insights:  Delving into probability, predictive modeling, and data-driven stories.
-Healthcare/Genomics Experiments: Using data to tackle challenges in life sciences.
+Data Wrangling Projects: Transforming raw datasets into meaningful insights.  
+Statistical Insights:  Delving into probability, predictive modeling, and data-driven stories.  
+Healthcare/Genomics Experiments: Using data to tackle challenges in life sciences.  
 Visual Analytics: Harnessing the power of charts and dashboards to highlight trends.
 
 ## Why This Matters 🌱
