@@ -1,5 +1,5 @@
 # Welcome to My Data Science Playground! 🔬📊
-_Hello and thanks for stopping by! This repository is where I dive into applied mathematics and statistics, all in pursuit of building a solid data science portfolio - especially for healthcare, pharma, genetics, and genomics._
+Hello and thanks for stopping by! This repository is where I dive into applied mathematics and statistics, all in pursuit of building a solid data science portfolio - especially for healthcare, pharma, genetics, and genomics.
 
 ## What to Expect 🏗️
 Data Wrangling Projects: Transforming raw datasets into meaningful insights.  
